@@ -1,4 +1,4 @@
-<img src="Header.png">
+<img src="Header.png"></img>
 
 # Web'd Up
 
