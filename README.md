@@ -13,7 +13,7 @@ Backend Web Development Bootcamp by <a href="https://gdscmbcet.com/">GDSC MBCET<
 ## Participants criteria
 
 - Should be familar with Frontend Web Development.
-- Should know the basics of c / c++ / java / j s.
+- Should know the basics of C / C++ / Java / JS.
 
 ## Event Schedule
 It will be a <b>week long</b> with <b>5 days learning camp</b> and <b>2 day project time</b>. Classes will be for <b>1 hour</b> everyday.
