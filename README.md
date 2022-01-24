@@ -3,7 +3,7 @@
 # Web'd Up
 
 </p>
-Backend Web Development Bootcamp by [GDSC MBCET](https://gdscmbcet.com/). Aims to give a good kickstart to your <b>backend development journey</b>. The bootcamp will be covering:
+Backend Web Development Bootcamp by <a href="https://gdscmbcet.com/">GDSC MBCET</a>. Aims to give a good kickstart to your <b>backend development journey</b>. The bootcamp will be covering:
 
 1. Node.js
 2. JavaScript
