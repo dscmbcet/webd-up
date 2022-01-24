@@ -1,5 +1,7 @@
+<img src="Header.png">
+
 # Web'd Up
-<img src="C:\Users\Sreelekshmi\OneDrive\Desktop\webd up\webd-up\media\Header.png">
+
 </p>
 Backend Web Development Bootcamp by [GDSC MBCET](https://gdscmbcet.com/). Aims to give a good kickstart to your <b>backend development journey</b>. The bootcamp will be covering:
 
