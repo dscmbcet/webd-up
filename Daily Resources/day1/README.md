@@ -1,13 +1,8 @@
 # Day 1
 
 
-### Node.js for Windows users
+### Node.js for Windows and macOS users
 Download from : https://nodejs.org/en/download/
-
-### Node.js for macOS users
-```
-curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.org/dist/latest/ | sed -nE 's|.*>node-(.*)\.pkg</a>.*|\1|p')}.pkg" > "$HOME/Downloads/node-latest.pkg" && sudo installer -store -pkg "$HOME/Downloads/node-latest.pkg" -target "/"
-```
 
 ### Node.js for Linux users
 
