@@ -13,13 +13,13 @@ curl "https://nodejs.org/dist/latest/node-${VERSION:-$(wget -qO- https://nodejs.
 
 Node.js v17.x:
 
-- #### Using Ubuntu
+   - #### Using Ubuntu
 ```
 curl -fsSL https://deb.nodesource.com/setup_17.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
-- #### Using Debian, as root
+   - #### Using Debian, as root
 ```
 curl -fsSL https://deb.nodesource.com/setup_17.x | bash -
 apt-get install -y nodejs
