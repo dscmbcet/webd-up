@@ -1,12 +1,12 @@
 # Day 1
 
 ### Microsoft Visual Studio Code
-**Download from : https://code.visualstudio.com/download**
+**Download from it from [here](https://code.visualstudio.com/download)**
 
 <hr>
 
 ### Node.js for Windows and macOS users
-Download from : https://nodejs.org/en/download/
+**Download from it from [here](https://nodejs.org/en/download/)**
 
 ### Node.js for Linux users
 
