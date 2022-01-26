@@ -8,7 +8,7 @@
 * Array Functions in JavaScript
 <hr>
 
-### The code snippets discussed today has been uploaded here in the repository.
+### The code snippets discussed in sessio are uploaded in this repository.
 
 <hr>
 
