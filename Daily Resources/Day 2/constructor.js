@@ -7,6 +7,6 @@ function Person(name,age,place){
     }
 }
 
-var aromal= new Person("Aromal",21,"Kollam")
 
+var aromal= new Person("Aromal",21,"Kollam")
 aromal.display()
