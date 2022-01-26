@@ -1,5 +1,9 @@
 # Day 1
 
+### Microsoft Visual Studio Code
+**Download from : https://code.visualstudio.com/download**
+
+<hr>
 
 ### Node.js for Windows and macOS users
 Download from : https://nodejs.org/en/download/
@@ -23,11 +27,11 @@ apt-get install -y nodejs
 
 ### Adding Node to PATH in Windows
 
-- Navigate to *This PC*.
-- Right Click anywhere and select *Properties* -> *Advanced system settings* (left side) -> *Environment variables*.
-- Double click on *Path* from the *System variables*.
-- Click on *Browse* and Navigate to *Node.js* folder and select *bin* folder and then click OK.
+- Navigate to **This PC**.
+- Right Click anywhere and select **Properties** -> **Advanced system settings** *(left side)* -> **Environment variables**.
+- Double click on **Path** from the **System variables**.
+- Click on **Browse** and Navigate to **Node.js** folder, then click OK.
     
 ___
-Default Path is C:\Program Files\nodejs 
+Default Path is **C:\Program Files\Node.js**
 ___
