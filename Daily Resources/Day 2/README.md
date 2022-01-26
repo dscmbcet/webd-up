@@ -12,7 +12,7 @@
 
 <hr>
 
-### **You can find some additional resources to work more on Javascript noted below**
+### **You can find some additional resources to work more on JavaScript below:**
 
   * <a style="color: #FFFFFF;" href="https://www.w3schools.com/js/js_functions.asp">Functions</a>
   * <a style="color: #FFFFFF;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions">More on Functions</a>
