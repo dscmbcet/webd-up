@@ -1,8 +1,8 @@
 arr=[1,2,3,4,5]
 // .map()
-
+names= ["nihal" , "kevin", "babu" , " navaneeth", "inky"]
 newArr = new Array();
-newArr = arr.map(  (x) => x*2  ) 
+newArr = names.map(  (x) => x + " is a good boy"  ) 
 console.log(newArr)
 
 
