@@ -13,7 +13,7 @@
 
 ### **You can find some additional resources to work more on Node.JS below**
 
-  * <a style="color: #FFFFFF; outline:none" href="https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm/">Sync and Async callbacks in JavaScript</a>
-  * <a style="color: #FFFFFF; outline:none" href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">Modules in Node.js</a>
+  * <a style="color: #FFFFFF; outline:none" href="https://www.tutorialspoint.com/nodejs/nodejs_express_framework.htm/">Express JS</a>
+  * <a style="color: #FFFFFF; outline:none" href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction">Express JS</a>
 
 <hr>
