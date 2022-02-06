@@ -1,0 +1,24 @@
+<a class="btn btn-primary" href="/task">GO BACK</a>
+
+<table style="border:1px solid black">
+    <thead>
+        <tr>
+            <th>Task Name</th>
+            <th>Task Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        {{#each list}}
+        <tr>
+            <td>{{this.taskName}}</td>
+            <td>{{this.taskDescription}}</td>
+            <td>
+                <a>Edit</a>
+            </td>
+            <td>
+                <a href="/task/delete/{{this._id}}">Delete</a>
+            </td>
+        </tr>
+        {{/each}}
+    </tbody>
+</table>
